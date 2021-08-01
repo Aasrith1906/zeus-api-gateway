@@ -1,0 +1,18 @@
+{
+  "service2": {
+    "sname": "service2",
+    "sdesc": "svc",
+    "state": "online",
+    "hname": "localhost",
+    "p": 5000,
+    "endpoints_map": { "/svc": ["GET", "post"] },
+    "_Service__service_obj": {
+      "name": "service2",
+      "desc": "svc",
+      "hostname": "localhost",
+      "port": 5000,
+      "state": "online",
+      "endpointmap": { "/svc": ["GET", "post"] }
+    }
+  }
+}

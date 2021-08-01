@@ -1,0 +1,3 @@
+'''
+Database availability on Zeus
+'''
